@@ -1,3 +1,8 @@
+# Integrantes
+
+Nicolás Hernández - 201716434
+Catalina Alcalá - 201812526
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
